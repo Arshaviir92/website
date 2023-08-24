@@ -1,0 +1,49 @@
+/* this is a comment in css */
+body{
+	background-color: #B7E3FA;
+	
+	font-family: 'roboto',sans-serif;
+	margin: 0;
+}
+.main-heading{
+color: purple;
+text-align: center;
+}
+.img{
+	width: 400px;
+	text-align:center;
+}
+.h2{
+	color:purple;
+	text-align:center;
+}
+.noo{
+	text-align: center;
+	color: purple;
+}
+
+	
+
+
+.footer{
+	background-color: #9ED2FA;
+	padding: 1px;
+	text-align: center;
+}
+.main-footer{
+	color: purple;
+	text-align: center;
+}
+.anbeh{
+	text-align: right;
+	color: purple;
+}
+.LINK2{
+	text-align: left;
+	color: purple;
+}
+.nabol{
+	width: 100px;
+}
+
+
