@@ -1,0 +1,55 @@
+/* this is a comment in css */
+body{
+	background-color: #B7E3FA;
+	
+font-family:'B nazanin',tahoma;
+	margin: 0;
+}
+.main-heading{
+color: purple;
+text-align: center;
+}
+.img{
+	width: 400px;
+	text-align:center;
+}
+.h2{
+	color:purple;
+	text-align:center;
+}
+.LINK{
+	text-align: center;
+	color:purple;
+}
+.footer{
+	background-color: #9ED2FA;
+	padding: 1px;
+	text-align: center;
+}
+.main-footer{
+	color: purple;
+	text-align: center;
+}
+.anbeh{
+	text-align: right;
+	color: purple;
+}
+.nabol{
+	text-align: center;
+	color: purple;
+}	
+.not{
+	color: purple;
+	text-align: center;
+}	
+
+.LINK2{
+	text-align: left;
+	color: purple;
+}
+.nabol{
+	width: 70px;
+}
+
+
+
